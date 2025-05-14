@@ -8,4 +8,7 @@ A simple Python project that converts weight between kilograms and pounds.
 - Command-line input
 
 ## How to Run
-Save the file as python converter.py` and run with
+Save the file as python converter.py` and run with:
+```bash
+python converter.py
+```
